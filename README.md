@@ -3,4 +3,4 @@
 * https://github.com/dialogflow/resources
 * https://cloud.google.com/dialogflow/docs
 * https://botflo.com/
-* Dialogflo Accessibility Gist: https://gist.github.com/amsclark/46170d84757cf05acf911415a88c4c31
+* Dialogflow Messenger Accessibility Gist: https://gist.github.com/amsclark/46170d84757cf05acf911415a88c4c31
